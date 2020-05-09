@@ -1,0 +1,4 @@
+Host python-server
+    HostName 54.67.71.61
+    User cloud_user
+    IdentityFile ~/.ssh/id_rsa.pub

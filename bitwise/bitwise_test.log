@@ -1,0 +1,5742 @@
+0 is 0 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0000
+0b1011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0000
+0b0000 in binary is 0 in decimal.
+Thus, 0 & 11 = 0
+
+
+
+0 is 0 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0000
+0b1011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1011
+0b1011 in binary is 11 in decimal.
+Thus, 0 | 11 = 11
+
+
+
+0 is 0 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0000
+0b1011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1011
+0b1011 in binary is 11 in decimal.
+Thus, 0 ^ 11 = 11
+
+
+
+We are doing a left shift by 0 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting left by 0 bits.
+That is, we are essentially cutting off 0 bits from the left of 0b1011
+So, the final value in binary is 0b1011, which is 11 in decimal.
+So...
+11 << 0 = 11
+
+
+
+We are doing a right shift by 0 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting right by 0 bits.
+That is, we are essentially cutting off 0 bits from the right of 0b1011
+So, the final value in binary is 0b1011, which is 11 in decimal.
+So...
+11 >> 0 = 11
+
+
+
+0 is 0 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0000
+0b1100
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0000
+0b0000 in binary is 0 in decimal.
+Thus, 0 & 12 = 0
+
+
+
+0 is 0 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0000
+0b1100
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1100
+0b1100 in binary is 12 in decimal.
+Thus, 0 | 12 = 12
+
+
+
+0 is 0 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0000
+0b1100
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1100
+0b1100 in binary is 12 in decimal.
+Thus, 0 ^ 12 = 12
+
+
+
+We are doing a left shift by 0 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting left by 0 bits.
+That is, we are essentially cutting off 0 bits from the left of 0b1100
+So, the final value in binary is 0b1100, which is 12 in decimal.
+So...
+12 << 0 = 12
+
+
+
+We are doing a right shift by 0 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting right by 0 bits.
+That is, we are essentially cutting off 0 bits from the right of 0b1100
+So, the final value in binary is 0b1100, which is 12 in decimal.
+So...
+12 >> 0 = 12
+
+
+
+0 is 0 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0000
+0b1101
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0000
+0b0000 in binary is 0 in decimal.
+Thus, 0 & 13 = 0
+
+
+
+0 is 0 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0000
+0b1101
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1101
+0b1101 in binary is 13 in decimal.
+Thus, 0 | 13 = 13
+
+
+
+0 is 0 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0000
+0b1101
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1101
+0b1101 in binary is 13 in decimal.
+Thus, 0 ^ 13 = 13
+
+
+
+We are doing a left shift by 0 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting left by 0 bits.
+That is, we are essentially cutting off 0 bits from the left of 0b1101
+So, the final value in binary is 0b1101, which is 13 in decimal.
+So...
+13 << 0 = 13
+
+
+
+We are doing a right shift by 0 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting right by 0 bits.
+That is, we are essentially cutting off 0 bits from the right of 0b1101
+So, the final value in binary is 0b1101, which is 13 in decimal.
+So...
+13 >> 0 = 13
+
+
+
+0 is 0 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0000
+0b1110
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0000
+0b0000 in binary is 0 in decimal.
+Thus, 0 & 14 = 0
+
+
+
+0 is 0 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0000
+0b1110
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1110
+0b1110 in binary is 14 in decimal.
+Thus, 0 | 14 = 14
+
+
+
+0 is 0 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0000
+0b1110
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1110
+0b1110 in binary is 14 in decimal.
+Thus, 0 ^ 14 = 14
+
+
+
+We are doing a left shift by 0 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting left by 0 bits.
+That is, we are essentially cutting off 0 bits from the left of 0b1110
+So, the final value in binary is 0b1110, which is 14 in decimal.
+So...
+14 << 0 = 14
+
+
+
+We are doing a right shift by 0 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting right by 0 bits.
+That is, we are essentially cutting off 0 bits from the right of 0b1110
+So, the final value in binary is 0b1110, which is 14 in decimal.
+So...
+14 >> 0 = 14
+
+
+
+0 is 0 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0000
+0b1111
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0000
+0b0000 in binary is 0 in decimal.
+Thus, 0 & 15 = 0
+
+
+
+0 is 0 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0000
+0b1111
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 0 | 15 = 15
+
+
+
+0 is 0 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0000
+0b1111
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 0 ^ 15 = 15
+
+
+
+We are doing a left shift by 0 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting left by 0 bits.
+That is, we are essentially cutting off 0 bits from the left of 0b1111
+So, the final value in binary is 0b1111, which is 15 in decimal.
+So...
+15 << 0 = 15
+
+
+
+We are doing a right shift by 0 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting right by 0 bits.
+That is, we are essentially cutting off 0 bits from the right of 0b1111
+So, the final value in binary is 0b1111, which is 15 in decimal.
+So...
+15 >> 0 = 15
+
+
+
+0 is 0 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00000
+0b10000
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 0 & 16 = 0
+
+
+
+0 is 0 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00000
+0b10000
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10000
+0b10000 in binary is 16 in decimal.
+Thus, 0 | 16 = 16
+
+
+
+0 is 0 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00000
+0b10000
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10000
+0b10000 in binary is 16 in decimal.
+Thus, 0 ^ 16 = 16
+
+
+
+We are doing a left shift by 0 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting left by 0 bits.
+That is, we are essentially cutting off 0 bits from the left of 0b10000
+So, the final value in binary is 0b10000, which is 16 in decimal.
+So...
+16 << 0 = 16
+
+
+
+We are doing a right shift by 0 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting right by 0 bits.
+That is, we are essentially cutting off 0 bits from the right of 0b10000
+So, the final value in binary is 0b10000, which is 16 in decimal.
+So...
+16 >> 0 = 16
+
+
+
+0 is 0 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00000
+0b10001
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 0 & 17 = 0
+
+
+
+0 is 0 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00000
+0b10001
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10001
+0b10001 in binary is 17 in decimal.
+Thus, 0 | 17 = 17
+
+
+
+0 is 0 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00000
+0b10001
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10001
+0b10001 in binary is 17 in decimal.
+Thus, 0 ^ 17 = 17
+
+
+
+We are doing a left shift by 0 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting left by 0 bits.
+That is, we are essentially cutting off 0 bits from the left of 0b10001
+So, the final value in binary is 0b10001, which is 17 in decimal.
+So...
+17 << 0 = 17
+
+
+
+We are doing a right shift by 0 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting right by 0 bits.
+That is, we are essentially cutting off 0 bits from the right of 0b10001
+So, the final value in binary is 0b10001, which is 17 in decimal.
+So...
+17 >> 0 = 17
+
+
+
+0 is 0 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00000
+0b10010
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 0 & 18 = 0
+
+
+
+0 is 0 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00000
+0b10010
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10010
+0b10010 in binary is 18 in decimal.
+Thus, 0 | 18 = 18
+
+
+
+0 is 0 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00000
+0b10010
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10010
+0b10010 in binary is 18 in decimal.
+Thus, 0 ^ 18 = 18
+
+
+
+We are doing a left shift by 0 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting left by 0 bits.
+That is, we are essentially cutting off 0 bits from the left of 0b10010
+So, the final value in binary is 0b10010, which is 18 in decimal.
+So...
+18 << 0 = 18
+
+
+
+We are doing a right shift by 0 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting right by 0 bits.
+That is, we are essentially cutting off 0 bits from the right of 0b10010
+So, the final value in binary is 0b10010, which is 18 in decimal.
+So...
+18 >> 0 = 18
+
+
+
+0 is 0 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00000
+0b10011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 0 & 19 = 0
+
+
+
+0 is 0 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00000
+0b10011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10011
+0b10011 in binary is 19 in decimal.
+Thus, 0 | 19 = 19
+
+
+
+0 is 0 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00000
+0b10011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10011
+0b10011 in binary is 19 in decimal.
+Thus, 0 ^ 19 = 19
+
+
+
+We are doing a left shift by 0 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting left by 0 bits.
+That is, we are essentially cutting off 0 bits from the left of 0b10011
+So, the final value in binary is 0b10011, which is 19 in decimal.
+So...
+19 << 0 = 19
+
+
+
+We are doing a right shift by 0 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting right by 0 bits.
+That is, we are essentially cutting off 0 bits from the right of 0b10011
+So, the final value in binary is 0b10011, which is 19 in decimal.
+So...
+19 >> 0 = 19
+
+
+
+1 is 1 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0001
+0b1011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0001
+0b0001 in binary is 1 in decimal.
+Thus, 1 & 11 = 1
+
+
+
+1 is 1 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0001
+0b1011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1011
+0b1011 in binary is 11 in decimal.
+Thus, 1 | 11 = 11
+
+
+
+1 is 1 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0001
+0b1011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1010
+0b1010 in binary is 10 in decimal.
+Thus, 1 ^ 11 = 10
+
+
+
+We are doing a left shift by 1 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting left by 1 bits.
+That is, we are essentially cutting off 1 bits from the left of 0b1011
+0 bits => 1011
+1 bits => 011
+So, the final value in binary is 0b011, which is 3 in decimal.
+So...
+11 << 1 = 3
+
+
+
+We are doing a right shift by 1 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting right by 1 bits.
+That is, we are essentially cutting off 1 bits from the right of 0b1011
+0 bits => 1011
+1 bits => 101
+So, the final value in binary is 0b101, which is 5 in decimal.
+So...
+11 >> 1 = 5
+
+
+
+1 is 1 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0001
+0b1100
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0000
+0b0000 in binary is 0 in decimal.
+Thus, 1 & 12 = 0
+
+
+
+1 is 1 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0001
+0b1100
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1101
+0b1101 in binary is 13 in decimal.
+Thus, 1 | 12 = 13
+
+
+
+1 is 1 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0001
+0b1100
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1101
+0b1101 in binary is 13 in decimal.
+Thus, 1 ^ 12 = 13
+
+
+
+We are doing a left shift by 1 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting left by 1 bits.
+That is, we are essentially cutting off 1 bits from the left of 0b1100
+0 bits => 1100
+1 bits => 100
+So, the final value in binary is 0b100, which is 4 in decimal.
+So...
+12 << 1 = 4
+
+
+
+We are doing a right shift by 1 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting right by 1 bits.
+That is, we are essentially cutting off 1 bits from the right of 0b1100
+0 bits => 1100
+1 bits => 110
+So, the final value in binary is 0b110, which is 6 in decimal.
+So...
+12 >> 1 = 6
+
+
+
+1 is 1 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0001
+0b1101
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0001
+0b0001 in binary is 1 in decimal.
+Thus, 1 & 13 = 1
+
+
+
+1 is 1 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0001
+0b1101
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1101
+0b1101 in binary is 13 in decimal.
+Thus, 1 | 13 = 13
+
+
+
+1 is 1 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0001
+0b1101
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1100
+0b1100 in binary is 12 in decimal.
+Thus, 1 ^ 13 = 12
+
+
+
+We are doing a left shift by 1 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting left by 1 bits.
+That is, we are essentially cutting off 1 bits from the left of 0b1101
+0 bits => 1101
+1 bits => 101
+So, the final value in binary is 0b101, which is 5 in decimal.
+So...
+13 << 1 = 5
+
+
+
+We are doing a right shift by 1 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting right by 1 bits.
+That is, we are essentially cutting off 1 bits from the right of 0b1101
+0 bits => 1101
+1 bits => 110
+So, the final value in binary is 0b110, which is 6 in decimal.
+So...
+13 >> 1 = 6
+
+
+
+1 is 1 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0001
+0b1110
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0000
+0b0000 in binary is 0 in decimal.
+Thus, 1 & 14 = 0
+
+
+
+1 is 1 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0001
+0b1110
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 1 | 14 = 15
+
+
+
+1 is 1 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0001
+0b1110
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 1 ^ 14 = 15
+
+
+
+We are doing a left shift by 1 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting left by 1 bits.
+That is, we are essentially cutting off 1 bits from the left of 0b1110
+0 bits => 1110
+1 bits => 110
+So, the final value in binary is 0b110, which is 6 in decimal.
+So...
+14 << 1 = 6
+
+
+
+We are doing a right shift by 1 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting right by 1 bits.
+That is, we are essentially cutting off 1 bits from the right of 0b1110
+0 bits => 1110
+1 bits => 111
+So, the final value in binary is 0b111, which is 7 in decimal.
+So...
+14 >> 1 = 7
+
+
+
+1 is 1 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0001
+0b1111
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0001
+0b0001 in binary is 1 in decimal.
+Thus, 1 & 15 = 1
+
+
+
+1 is 1 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0001
+0b1111
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 1 | 15 = 15
+
+
+
+1 is 1 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0001
+0b1111
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1110
+0b1110 in binary is 14 in decimal.
+Thus, 1 ^ 15 = 14
+
+
+
+We are doing a left shift by 1 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting left by 1 bits.
+That is, we are essentially cutting off 1 bits from the left of 0b1111
+0 bits => 1111
+1 bits => 111
+So, the final value in binary is 0b111, which is 7 in decimal.
+So...
+15 << 1 = 7
+
+
+
+We are doing a right shift by 1 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting right by 1 bits.
+That is, we are essentially cutting off 1 bits from the right of 0b1111
+0 bits => 1111
+1 bits => 111
+So, the final value in binary is 0b111, which is 7 in decimal.
+So...
+15 >> 1 = 7
+
+
+
+1 is 1 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00001
+0b10000
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 1 & 16 = 0
+
+
+
+1 is 1 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00001
+0b10000
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10001
+0b10001 in binary is 17 in decimal.
+Thus, 1 | 16 = 17
+
+
+
+1 is 1 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00001
+0b10000
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10001
+0b10001 in binary is 17 in decimal.
+Thus, 1 ^ 16 = 17
+
+
+
+We are doing a left shift by 1 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting left by 1 bits.
+That is, we are essentially cutting off 1 bits from the left of 0b10000
+0 bits => 10000
+1 bits => 0000
+So, the final value in binary is 0b0000, which is 0 in decimal.
+So...
+16 << 1 = 0
+
+
+
+We are doing a right shift by 1 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting right by 1 bits.
+That is, we are essentially cutting off 1 bits from the right of 0b10000
+0 bits => 10000
+1 bits => 1000
+So, the final value in binary is 0b1000, which is 8 in decimal.
+So...
+16 >> 1 = 8
+
+
+
+1 is 1 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00001
+0b10001
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00001
+0b00001 in binary is 1 in decimal.
+Thus, 1 & 17 = 1
+
+
+
+1 is 1 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00001
+0b10001
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10001
+0b10001 in binary is 17 in decimal.
+Thus, 1 | 17 = 17
+
+
+
+1 is 1 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00001
+0b10001
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10000
+0b10000 in binary is 16 in decimal.
+Thus, 1 ^ 17 = 16
+
+
+
+We are doing a left shift by 1 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting left by 1 bits.
+That is, we are essentially cutting off 1 bits from the left of 0b10001
+0 bits => 10001
+1 bits => 0001
+So, the final value in binary is 0b0001, which is 1 in decimal.
+So...
+17 << 1 = 1
+
+
+
+We are doing a right shift by 1 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting right by 1 bits.
+That is, we are essentially cutting off 1 bits from the right of 0b10001
+0 bits => 10001
+1 bits => 1000
+So, the final value in binary is 0b1000, which is 8 in decimal.
+So...
+17 >> 1 = 8
+
+
+
+1 is 1 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00001
+0b10010
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 1 & 18 = 0
+
+
+
+1 is 1 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00001
+0b10010
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10011
+0b10011 in binary is 19 in decimal.
+Thus, 1 | 18 = 19
+
+
+
+1 is 1 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00001
+0b10010
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10011
+0b10011 in binary is 19 in decimal.
+Thus, 1 ^ 18 = 19
+
+
+
+We are doing a left shift by 1 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting left by 1 bits.
+That is, we are essentially cutting off 1 bits from the left of 0b10010
+0 bits => 10010
+1 bits => 0010
+So, the final value in binary is 0b0010, which is 2 in decimal.
+So...
+18 << 1 = 2
+
+
+
+We are doing a right shift by 1 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting right by 1 bits.
+That is, we are essentially cutting off 1 bits from the right of 0b10010
+0 bits => 10010
+1 bits => 1001
+So, the final value in binary is 0b1001, which is 9 in decimal.
+So...
+18 >> 1 = 9
+
+
+
+1 is 1 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00001
+0b10011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00001
+0b00001 in binary is 1 in decimal.
+Thus, 1 & 19 = 1
+
+
+
+1 is 1 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00001
+0b10011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10011
+0b10011 in binary is 19 in decimal.
+Thus, 1 | 19 = 19
+
+
+
+1 is 1 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00001
+0b10011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10010
+0b10010 in binary is 18 in decimal.
+Thus, 1 ^ 19 = 18
+
+
+
+We are doing a left shift by 1 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting left by 1 bits.
+That is, we are essentially cutting off 1 bits from the left of 0b10011
+0 bits => 10011
+1 bits => 0011
+So, the final value in binary is 0b0011, which is 3 in decimal.
+So...
+19 << 1 = 3
+
+
+
+We are doing a right shift by 1 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting right by 1 bits.
+That is, we are essentially cutting off 1 bits from the right of 0b10011
+0 bits => 10011
+1 bits => 1001
+So, the final value in binary is 0b1001, which is 9 in decimal.
+So...
+19 >> 1 = 9
+
+
+
+2 is 10 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0010
+0b1011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0010
+0b0010 in binary is 2 in decimal.
+Thus, 2 & 11 = 2
+
+
+
+2 is 10 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0010
+0b1011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1011
+0b1011 in binary is 11 in decimal.
+Thus, 2 | 11 = 11
+
+
+
+2 is 10 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0010
+0b1011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1001
+0b1001 in binary is 9 in decimal.
+Thus, 2 ^ 11 = 9
+
+
+
+We are doing a left shift by 2 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting left by 2 bits.
+That is, we are essentially cutting off 2 bits from the left of 0b1011
+0 bits => 1011
+1 bits => 011
+2 bits => 11
+So, the final value in binary is 0b11, which is 3 in decimal.
+So...
+11 << 2 = 3
+
+
+
+We are doing a right shift by 2 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting right by 2 bits.
+That is, we are essentially cutting off 2 bits from the right of 0b1011
+0 bits => 1011
+1 bits => 101
+2 bits => 10
+So, the final value in binary is 0b10, which is 2 in decimal.
+So...
+11 >> 2 = 2
+
+
+
+2 is 10 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0010
+0b1100
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0000
+0b0000 in binary is 0 in decimal.
+Thus, 2 & 12 = 0
+
+
+
+2 is 10 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0010
+0b1100
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1110
+0b1110 in binary is 14 in decimal.
+Thus, 2 | 12 = 14
+
+
+
+2 is 10 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0010
+0b1100
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1110
+0b1110 in binary is 14 in decimal.
+Thus, 2 ^ 12 = 14
+
+
+
+We are doing a left shift by 2 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting left by 2 bits.
+That is, we are essentially cutting off 2 bits from the left of 0b1100
+0 bits => 1100
+1 bits => 100
+2 bits => 00
+So, the final value in binary is 0b00, which is 0 in decimal.
+So...
+12 << 2 = 0
+
+
+
+We are doing a right shift by 2 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting right by 2 bits.
+That is, we are essentially cutting off 2 bits from the right of 0b1100
+0 bits => 1100
+1 bits => 110
+2 bits => 11
+So, the final value in binary is 0b11, which is 3 in decimal.
+So...
+12 >> 2 = 3
+
+
+
+2 is 10 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0010
+0b1101
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0000
+0b0000 in binary is 0 in decimal.
+Thus, 2 & 13 = 0
+
+
+
+2 is 10 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0010
+0b1101
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 2 | 13 = 15
+
+
+
+2 is 10 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0010
+0b1101
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 2 ^ 13 = 15
+
+
+
+We are doing a left shift by 2 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting left by 2 bits.
+That is, we are essentially cutting off 2 bits from the left of 0b1101
+0 bits => 1101
+1 bits => 101
+2 bits => 01
+So, the final value in binary is 0b01, which is 1 in decimal.
+So...
+13 << 2 = 1
+
+
+
+We are doing a right shift by 2 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting right by 2 bits.
+That is, we are essentially cutting off 2 bits from the right of 0b1101
+0 bits => 1101
+1 bits => 110
+2 bits => 11
+So, the final value in binary is 0b11, which is 3 in decimal.
+So...
+13 >> 2 = 3
+
+
+
+2 is 10 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0010
+0b1110
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0010
+0b0010 in binary is 2 in decimal.
+Thus, 2 & 14 = 2
+
+
+
+2 is 10 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0010
+0b1110
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1110
+0b1110 in binary is 14 in decimal.
+Thus, 2 | 14 = 14
+
+
+
+2 is 10 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0010
+0b1110
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1100
+0b1100 in binary is 12 in decimal.
+Thus, 2 ^ 14 = 12
+
+
+
+We are doing a left shift by 2 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting left by 2 bits.
+That is, we are essentially cutting off 2 bits from the left of 0b1110
+0 bits => 1110
+1 bits => 110
+2 bits => 10
+So, the final value in binary is 0b10, which is 2 in decimal.
+So...
+14 << 2 = 2
+
+
+
+We are doing a right shift by 2 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting right by 2 bits.
+That is, we are essentially cutting off 2 bits from the right of 0b1110
+0 bits => 1110
+1 bits => 111
+2 bits => 11
+So, the final value in binary is 0b11, which is 3 in decimal.
+So...
+14 >> 2 = 3
+
+
+
+2 is 10 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0010
+0b1111
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0010
+0b0010 in binary is 2 in decimal.
+Thus, 2 & 15 = 2
+
+
+
+2 is 10 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0010
+0b1111
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 2 | 15 = 15
+
+
+
+2 is 10 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0010
+0b1111
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1101
+0b1101 in binary is 13 in decimal.
+Thus, 2 ^ 15 = 13
+
+
+
+We are doing a left shift by 2 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting left by 2 bits.
+That is, we are essentially cutting off 2 bits from the left of 0b1111
+0 bits => 1111
+1 bits => 111
+2 bits => 11
+So, the final value in binary is 0b11, which is 3 in decimal.
+So...
+15 << 2 = 3
+
+
+
+We are doing a right shift by 2 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting right by 2 bits.
+That is, we are essentially cutting off 2 bits from the right of 0b1111
+0 bits => 1111
+1 bits => 111
+2 bits => 11
+So, the final value in binary is 0b11, which is 3 in decimal.
+So...
+15 >> 2 = 3
+
+
+
+2 is 10 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00010
+0b10000
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 2 & 16 = 0
+
+
+
+2 is 10 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00010
+0b10000
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10010
+0b10010 in binary is 18 in decimal.
+Thus, 2 | 16 = 18
+
+
+
+2 is 10 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00010
+0b10000
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10010
+0b10010 in binary is 18 in decimal.
+Thus, 2 ^ 16 = 18
+
+
+
+We are doing a left shift by 2 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting left by 2 bits.
+That is, we are essentially cutting off 2 bits from the left of 0b10000
+0 bits => 10000
+1 bits => 0000
+2 bits => 000
+So, the final value in binary is 0b000, which is 0 in decimal.
+So...
+16 << 2 = 0
+
+
+
+We are doing a right shift by 2 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting right by 2 bits.
+That is, we are essentially cutting off 2 bits from the right of 0b10000
+0 bits => 10000
+1 bits => 1000
+2 bits => 100
+So, the final value in binary is 0b100, which is 4 in decimal.
+So...
+16 >> 2 = 4
+
+
+
+2 is 10 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00010
+0b10001
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 2 & 17 = 0
+
+
+
+2 is 10 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00010
+0b10001
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10011
+0b10011 in binary is 19 in decimal.
+Thus, 2 | 17 = 19
+
+
+
+2 is 10 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00010
+0b10001
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10011
+0b10011 in binary is 19 in decimal.
+Thus, 2 ^ 17 = 19
+
+
+
+We are doing a left shift by 2 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting left by 2 bits.
+That is, we are essentially cutting off 2 bits from the left of 0b10001
+0 bits => 10001
+1 bits => 0001
+2 bits => 001
+So, the final value in binary is 0b001, which is 1 in decimal.
+So...
+17 << 2 = 1
+
+
+
+We are doing a right shift by 2 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting right by 2 bits.
+That is, we are essentially cutting off 2 bits from the right of 0b10001
+0 bits => 10001
+1 bits => 1000
+2 bits => 100
+So, the final value in binary is 0b100, which is 4 in decimal.
+So...
+17 >> 2 = 4
+
+
+
+2 is 10 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00010
+0b10010
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00010
+0b00010 in binary is 2 in decimal.
+Thus, 2 & 18 = 2
+
+
+
+2 is 10 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00010
+0b10010
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10010
+0b10010 in binary is 18 in decimal.
+Thus, 2 | 18 = 18
+
+
+
+2 is 10 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00010
+0b10010
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10000
+0b10000 in binary is 16 in decimal.
+Thus, 2 ^ 18 = 16
+
+
+
+We are doing a left shift by 2 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting left by 2 bits.
+That is, we are essentially cutting off 2 bits from the left of 0b10010
+0 bits => 10010
+1 bits => 0010
+2 bits => 010
+So, the final value in binary is 0b010, which is 2 in decimal.
+So...
+18 << 2 = 2
+
+
+
+We are doing a right shift by 2 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting right by 2 bits.
+That is, we are essentially cutting off 2 bits from the right of 0b10010
+0 bits => 10010
+1 bits => 1001
+2 bits => 100
+So, the final value in binary is 0b100, which is 4 in decimal.
+So...
+18 >> 2 = 4
+
+
+
+2 is 10 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00010
+0b10011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00010
+0b00010 in binary is 2 in decimal.
+Thus, 2 & 19 = 2
+
+
+
+2 is 10 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00010
+0b10011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10011
+0b10011 in binary is 19 in decimal.
+Thus, 2 | 19 = 19
+
+
+
+2 is 10 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00010
+0b10011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10001
+0b10001 in binary is 17 in decimal.
+Thus, 2 ^ 19 = 17
+
+
+
+We are doing a left shift by 2 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting left by 2 bits.
+That is, we are essentially cutting off 2 bits from the left of 0b10011
+0 bits => 10011
+1 bits => 0011
+2 bits => 011
+So, the final value in binary is 0b011, which is 3 in decimal.
+So...
+19 << 2 = 3
+
+
+
+We are doing a right shift by 2 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting right by 2 bits.
+That is, we are essentially cutting off 2 bits from the right of 0b10011
+0 bits => 10011
+1 bits => 1001
+2 bits => 100
+So, the final value in binary is 0b100, which is 4 in decimal.
+So...
+19 >> 2 = 4
+
+
+
+3 is 11 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0011
+0b1011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0011
+0b0011 in binary is 3 in decimal.
+Thus, 3 & 11 = 3
+
+
+
+3 is 11 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0011
+0b1011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1011
+0b1011 in binary is 11 in decimal.
+Thus, 3 | 11 = 11
+
+
+
+3 is 11 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0011
+0b1011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1000
+0b1000 in binary is 8 in decimal.
+Thus, 3 ^ 11 = 8
+
+
+
+We are doing a left shift by 3 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting left by 3 bits.
+That is, we are essentially cutting off 3 bits from the left of 0b1011
+0 bits => 1011
+1 bits => 011
+2 bits => 11
+3 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+11 << 3 = 1
+
+
+
+We are doing a right shift by 3 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting right by 3 bits.
+That is, we are essentially cutting off 3 bits from the right of 0b1011
+0 bits => 1011
+1 bits => 101
+2 bits => 10
+3 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+11 >> 3 = 1
+
+
+
+3 is 11 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0011
+0b1100
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0000
+0b0000 in binary is 0 in decimal.
+Thus, 3 & 12 = 0
+
+
+
+3 is 11 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0011
+0b1100
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 3 | 12 = 15
+
+
+
+3 is 11 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0011
+0b1100
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 3 ^ 12 = 15
+
+
+
+We are doing a left shift by 3 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting left by 3 bits.
+That is, we are essentially cutting off 3 bits from the left of 0b1100
+0 bits => 1100
+1 bits => 100
+2 bits => 00
+3 bits => 0
+So, the final value in binary is 0b0, which is 0 in decimal.
+So...
+12 << 3 = 0
+
+
+
+We are doing a right shift by 3 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting right by 3 bits.
+That is, we are essentially cutting off 3 bits from the right of 0b1100
+0 bits => 1100
+1 bits => 110
+2 bits => 11
+3 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+12 >> 3 = 1
+
+
+
+3 is 11 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0011
+0b1101
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0001
+0b0001 in binary is 1 in decimal.
+Thus, 3 & 13 = 1
+
+
+
+3 is 11 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0011
+0b1101
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 3 | 13 = 15
+
+
+
+3 is 11 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0011
+0b1101
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1110
+0b1110 in binary is 14 in decimal.
+Thus, 3 ^ 13 = 14
+
+
+
+We are doing a left shift by 3 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting left by 3 bits.
+That is, we are essentially cutting off 3 bits from the left of 0b1101
+0 bits => 1101
+1 bits => 101
+2 bits => 01
+3 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+13 << 3 = 1
+
+
+
+We are doing a right shift by 3 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting right by 3 bits.
+That is, we are essentially cutting off 3 bits from the right of 0b1101
+0 bits => 1101
+1 bits => 110
+2 bits => 11
+3 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+13 >> 3 = 1
+
+
+
+3 is 11 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0011
+0b1110
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0010
+0b0010 in binary is 2 in decimal.
+Thus, 3 & 14 = 2
+
+
+
+3 is 11 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0011
+0b1110
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 3 | 14 = 15
+
+
+
+3 is 11 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0011
+0b1110
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1101
+0b1101 in binary is 13 in decimal.
+Thus, 3 ^ 14 = 13
+
+
+
+We are doing a left shift by 3 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting left by 3 bits.
+That is, we are essentially cutting off 3 bits from the left of 0b1110
+0 bits => 1110
+1 bits => 110
+2 bits => 10
+3 bits => 0
+So, the final value in binary is 0b0, which is 0 in decimal.
+So...
+14 << 3 = 0
+
+
+
+We are doing a right shift by 3 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting right by 3 bits.
+That is, we are essentially cutting off 3 bits from the right of 0b1110
+0 bits => 1110
+1 bits => 111
+2 bits => 11
+3 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+14 >> 3 = 1
+
+
+
+3 is 11 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0011
+0b1111
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0011
+0b0011 in binary is 3 in decimal.
+Thus, 3 & 15 = 3
+
+
+
+3 is 11 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0011
+0b1111
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 3 | 15 = 15
+
+
+
+3 is 11 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0011
+0b1111
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1100
+0b1100 in binary is 12 in decimal.
+Thus, 3 ^ 15 = 12
+
+
+
+We are doing a left shift by 3 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting left by 3 bits.
+That is, we are essentially cutting off 3 bits from the left of 0b1111
+0 bits => 1111
+1 bits => 111
+2 bits => 11
+3 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+15 << 3 = 1
+
+
+
+We are doing a right shift by 3 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting right by 3 bits.
+That is, we are essentially cutting off 3 bits from the right of 0b1111
+0 bits => 1111
+1 bits => 111
+2 bits => 11
+3 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+15 >> 3 = 1
+
+
+
+3 is 11 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00011
+0b10000
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 3 & 16 = 0
+
+
+
+3 is 11 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00011
+0b10000
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10011
+0b10011 in binary is 19 in decimal.
+Thus, 3 | 16 = 19
+
+
+
+3 is 11 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00011
+0b10000
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10011
+0b10011 in binary is 19 in decimal.
+Thus, 3 ^ 16 = 19
+
+
+
+We are doing a left shift by 3 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting left by 3 bits.
+That is, we are essentially cutting off 3 bits from the left of 0b10000
+0 bits => 10000
+1 bits => 0000
+2 bits => 000
+3 bits => 00
+So, the final value in binary is 0b00, which is 0 in decimal.
+So...
+16 << 3 = 0
+
+
+
+We are doing a right shift by 3 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting right by 3 bits.
+That is, we are essentially cutting off 3 bits from the right of 0b10000
+0 bits => 10000
+1 bits => 1000
+2 bits => 100
+3 bits => 10
+So, the final value in binary is 0b10, which is 2 in decimal.
+So...
+16 >> 3 = 2
+
+
+
+3 is 11 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00011
+0b10001
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00001
+0b00001 in binary is 1 in decimal.
+Thus, 3 & 17 = 1
+
+
+
+3 is 11 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00011
+0b10001
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10011
+0b10011 in binary is 19 in decimal.
+Thus, 3 | 17 = 19
+
+
+
+3 is 11 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00011
+0b10001
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10010
+0b10010 in binary is 18 in decimal.
+Thus, 3 ^ 17 = 18
+
+
+
+We are doing a left shift by 3 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting left by 3 bits.
+That is, we are essentially cutting off 3 bits from the left of 0b10001
+0 bits => 10001
+1 bits => 0001
+2 bits => 001
+3 bits => 01
+So, the final value in binary is 0b01, which is 1 in decimal.
+So...
+17 << 3 = 1
+
+
+
+We are doing a right shift by 3 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting right by 3 bits.
+That is, we are essentially cutting off 3 bits from the right of 0b10001
+0 bits => 10001
+1 bits => 1000
+2 bits => 100
+3 bits => 10
+So, the final value in binary is 0b10, which is 2 in decimal.
+So...
+17 >> 3 = 2
+
+
+
+3 is 11 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00011
+0b10010
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00010
+0b00010 in binary is 2 in decimal.
+Thus, 3 & 18 = 2
+
+
+
+3 is 11 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00011
+0b10010
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10011
+0b10011 in binary is 19 in decimal.
+Thus, 3 | 18 = 19
+
+
+
+3 is 11 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00011
+0b10010
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10001
+0b10001 in binary is 17 in decimal.
+Thus, 3 ^ 18 = 17
+
+
+
+We are doing a left shift by 3 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting left by 3 bits.
+That is, we are essentially cutting off 3 bits from the left of 0b10010
+0 bits => 10010
+1 bits => 0010
+2 bits => 010
+3 bits => 10
+So, the final value in binary is 0b10, which is 2 in decimal.
+So...
+18 << 3 = 2
+
+
+
+We are doing a right shift by 3 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting right by 3 bits.
+That is, we are essentially cutting off 3 bits from the right of 0b10010
+0 bits => 10010
+1 bits => 1001
+2 bits => 100
+3 bits => 10
+So, the final value in binary is 0b10, which is 2 in decimal.
+So...
+18 >> 3 = 2
+
+
+
+3 is 11 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00011
+0b10011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00011
+0b00011 in binary is 3 in decimal.
+Thus, 3 & 19 = 3
+
+
+
+3 is 11 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00011
+0b10011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10011
+0b10011 in binary is 19 in decimal.
+Thus, 3 | 19 = 19
+
+
+
+3 is 11 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00011
+0b10011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10000
+0b10000 in binary is 16 in decimal.
+Thus, 3 ^ 19 = 16
+
+
+
+We are doing a left shift by 3 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting left by 3 bits.
+That is, we are essentially cutting off 3 bits from the left of 0b10011
+0 bits => 10011
+1 bits => 0011
+2 bits => 011
+3 bits => 11
+So, the final value in binary is 0b11, which is 3 in decimal.
+So...
+19 << 3 = 3
+
+
+
+We are doing a right shift by 3 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting right by 3 bits.
+That is, we are essentially cutting off 3 bits from the right of 0b10011
+0 bits => 10011
+1 bits => 1001
+2 bits => 100
+3 bits => 10
+So, the final value in binary is 0b10, which is 2 in decimal.
+So...
+19 >> 3 = 2
+
+
+
+4 is 100 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0100
+0b1011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0000
+0b0000 in binary is 0 in decimal.
+Thus, 4 & 11 = 0
+
+
+
+4 is 100 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0100
+0b1011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 4 | 11 = 15
+
+
+
+4 is 100 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0100
+0b1011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 4 ^ 11 = 15
+
+
+
+We are doing a left shift by 4 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting left by 4 bits.
+That is, we are essentially cutting off 4 bits from the left of 0b1011
+0 bits => 1011
+1 bits => 011
+2 bits => 11
+3 bits => 1
+4 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+11 << 4 = 0
+
+
+
+We are doing a right shift by 4 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting right by 4 bits.
+That is, we are essentially cutting off 4 bits from the right of 0b1011
+0 bits => 1011
+1 bits => 101
+2 bits => 10
+3 bits => 1
+4 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+11 >> 4 = 0
+
+
+
+4 is 100 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0100
+0b1100
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0100
+0b0100 in binary is 4 in decimal.
+Thus, 4 & 12 = 4
+
+
+
+4 is 100 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0100
+0b1100
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1100
+0b1100 in binary is 12 in decimal.
+Thus, 4 | 12 = 12
+
+
+
+4 is 100 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0100
+0b1100
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1000
+0b1000 in binary is 8 in decimal.
+Thus, 4 ^ 12 = 8
+
+
+
+We are doing a left shift by 4 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting left by 4 bits.
+That is, we are essentially cutting off 4 bits from the left of 0b1100
+0 bits => 1100
+1 bits => 100
+2 bits => 00
+3 bits => 0
+4 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+12 << 4 = 0
+
+
+
+We are doing a right shift by 4 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting right by 4 bits.
+That is, we are essentially cutting off 4 bits from the right of 0b1100
+0 bits => 1100
+1 bits => 110
+2 bits => 11
+3 bits => 1
+4 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+12 >> 4 = 0
+
+
+
+4 is 100 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0100
+0b1101
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0100
+0b0100 in binary is 4 in decimal.
+Thus, 4 & 13 = 4
+
+
+
+4 is 100 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0100
+0b1101
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1101
+0b1101 in binary is 13 in decimal.
+Thus, 4 | 13 = 13
+
+
+
+4 is 100 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0100
+0b1101
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1001
+0b1001 in binary is 9 in decimal.
+Thus, 4 ^ 13 = 9
+
+
+
+We are doing a left shift by 4 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting left by 4 bits.
+That is, we are essentially cutting off 4 bits from the left of 0b1101
+0 bits => 1101
+1 bits => 101
+2 bits => 01
+3 bits => 1
+4 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+13 << 4 = 0
+
+
+
+We are doing a right shift by 4 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting right by 4 bits.
+That is, we are essentially cutting off 4 bits from the right of 0b1101
+0 bits => 1101
+1 bits => 110
+2 bits => 11
+3 bits => 1
+4 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+13 >> 4 = 0
+
+
+
+4 is 100 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0100
+0b1110
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0100
+0b0100 in binary is 4 in decimal.
+Thus, 4 & 14 = 4
+
+
+
+4 is 100 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0100
+0b1110
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1110
+0b1110 in binary is 14 in decimal.
+Thus, 4 | 14 = 14
+
+
+
+4 is 100 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0100
+0b1110
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1010
+0b1010 in binary is 10 in decimal.
+Thus, 4 ^ 14 = 10
+
+
+
+We are doing a left shift by 4 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting left by 4 bits.
+That is, we are essentially cutting off 4 bits from the left of 0b1110
+0 bits => 1110
+1 bits => 110
+2 bits => 10
+3 bits => 0
+4 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+14 << 4 = 0
+
+
+
+We are doing a right shift by 4 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting right by 4 bits.
+That is, we are essentially cutting off 4 bits from the right of 0b1110
+0 bits => 1110
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+14 >> 4 = 0
+
+
+
+4 is 100 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0100
+0b1111
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0100
+0b0100 in binary is 4 in decimal.
+Thus, 4 & 15 = 4
+
+
+
+4 is 100 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0100
+0b1111
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 4 | 15 = 15
+
+
+
+4 is 100 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0100
+0b1111
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1011
+0b1011 in binary is 11 in decimal.
+Thus, 4 ^ 15 = 11
+
+
+
+We are doing a left shift by 4 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting left by 4 bits.
+That is, we are essentially cutting off 4 bits from the left of 0b1111
+0 bits => 1111
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+15 << 4 = 0
+
+
+
+We are doing a right shift by 4 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting right by 4 bits.
+That is, we are essentially cutting off 4 bits from the right of 0b1111
+0 bits => 1111
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+15 >> 4 = 0
+
+
+
+4 is 100 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00100
+0b10000
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 4 & 16 = 0
+
+
+
+4 is 100 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00100
+0b10000
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10100
+0b10100 in binary is 20 in decimal.
+Thus, 4 | 16 = 20
+
+
+
+4 is 100 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00100
+0b10000
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10100
+0b10100 in binary is 20 in decimal.
+Thus, 4 ^ 16 = 20
+
+
+
+We are doing a left shift by 4 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting left by 4 bits.
+That is, we are essentially cutting off 4 bits from the left of 0b10000
+0 bits => 10000
+1 bits => 0000
+2 bits => 000
+3 bits => 00
+4 bits => 0
+So, the final value in binary is 0b0, which is 0 in decimal.
+So...
+16 << 4 = 0
+
+
+
+We are doing a right shift by 4 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting right by 4 bits.
+That is, we are essentially cutting off 4 bits from the right of 0b10000
+0 bits => 10000
+1 bits => 1000
+2 bits => 100
+3 bits => 10
+4 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+16 >> 4 = 1
+
+
+
+4 is 100 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00100
+0b10001
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 4 & 17 = 0
+
+
+
+4 is 100 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00100
+0b10001
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10101
+0b10101 in binary is 21 in decimal.
+Thus, 4 | 17 = 21
+
+
+
+4 is 100 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00100
+0b10001
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10101
+0b10101 in binary is 21 in decimal.
+Thus, 4 ^ 17 = 21
+
+
+
+We are doing a left shift by 4 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting left by 4 bits.
+That is, we are essentially cutting off 4 bits from the left of 0b10001
+0 bits => 10001
+1 bits => 0001
+2 bits => 001
+3 bits => 01
+4 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+17 << 4 = 1
+
+
+
+We are doing a right shift by 4 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting right by 4 bits.
+That is, we are essentially cutting off 4 bits from the right of 0b10001
+0 bits => 10001
+1 bits => 1000
+2 bits => 100
+3 bits => 10
+4 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+17 >> 4 = 1
+
+
+
+4 is 100 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00100
+0b10010
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 4 & 18 = 0
+
+
+
+4 is 100 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00100
+0b10010
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10110
+0b10110 in binary is 22 in decimal.
+Thus, 4 | 18 = 22
+
+
+
+4 is 100 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00100
+0b10010
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10110
+0b10110 in binary is 22 in decimal.
+Thus, 4 ^ 18 = 22
+
+
+
+We are doing a left shift by 4 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting left by 4 bits.
+That is, we are essentially cutting off 4 bits from the left of 0b10010
+0 bits => 10010
+1 bits => 0010
+2 bits => 010
+3 bits => 10
+4 bits => 0
+So, the final value in binary is 0b0, which is 0 in decimal.
+So...
+18 << 4 = 0
+
+
+
+We are doing a right shift by 4 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting right by 4 bits.
+That is, we are essentially cutting off 4 bits from the right of 0b10010
+0 bits => 10010
+1 bits => 1001
+2 bits => 100
+3 bits => 10
+4 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+18 >> 4 = 1
+
+
+
+4 is 100 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00100
+0b10011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 4 & 19 = 0
+
+
+
+4 is 100 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00100
+0b10011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10111
+0b10111 in binary is 23 in decimal.
+Thus, 4 | 19 = 23
+
+
+
+4 is 100 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00100
+0b10011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10111
+0b10111 in binary is 23 in decimal.
+Thus, 4 ^ 19 = 23
+
+
+
+We are doing a left shift by 4 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting left by 4 bits.
+That is, we are essentially cutting off 4 bits from the left of 0b10011
+0 bits => 10011
+1 bits => 0011
+2 bits => 011
+3 bits => 11
+4 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+19 << 4 = 1
+
+
+
+We are doing a right shift by 4 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting right by 4 bits.
+That is, we are essentially cutting off 4 bits from the right of 0b10011
+0 bits => 10011
+1 bits => 1001
+2 bits => 100
+3 bits => 10
+4 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+19 >> 4 = 1
+
+
+
+5 is 101 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0101
+0b1011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0001
+0b0001 in binary is 1 in decimal.
+Thus, 5 & 11 = 1
+
+
+
+5 is 101 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0101
+0b1011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 5 | 11 = 15
+
+
+
+5 is 101 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0101
+0b1011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1110
+0b1110 in binary is 14 in decimal.
+Thus, 5 ^ 11 = 14
+
+
+
+We are doing a left shift by 5 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting left by 5 bits.
+That is, we are essentially cutting off 5 bits from the left of 0b1011
+0 bits => 1011
+1 bits => 011
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+11 << 5 = 0
+
+
+
+We are doing a right shift by 5 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting right by 5 bits.
+That is, we are essentially cutting off 5 bits from the right of 0b1011
+0 bits => 1011
+1 bits => 101
+2 bits => 10
+3 bits => 1
+4 bits => 
+5 bits => 101
+So, the final value in binary is 0b101, which is 5 in decimal.
+So...
+11 >> 5 = 5
+
+
+
+5 is 101 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0101
+0b1100
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0100
+0b0100 in binary is 4 in decimal.
+Thus, 5 & 12 = 4
+
+
+
+5 is 101 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0101
+0b1100
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1101
+0b1101 in binary is 13 in decimal.
+Thus, 5 | 12 = 13
+
+
+
+5 is 101 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0101
+0b1100
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1001
+0b1001 in binary is 9 in decimal.
+Thus, 5 ^ 12 = 9
+
+
+
+We are doing a left shift by 5 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting left by 5 bits.
+That is, we are essentially cutting off 5 bits from the left of 0b1100
+0 bits => 1100
+1 bits => 100
+2 bits => 00
+3 bits => 0
+4 bits => 
+5 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+12 << 5 = 0
+
+
+
+We are doing a right shift by 5 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting right by 5 bits.
+That is, we are essentially cutting off 5 bits from the right of 0b1100
+0 bits => 1100
+1 bits => 110
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 110
+So, the final value in binary is 0b110, which is 6 in decimal.
+So...
+12 >> 5 = 6
+
+
+
+5 is 101 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0101
+0b1101
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0101
+0b0101 in binary is 5 in decimal.
+Thus, 5 & 13 = 5
+
+
+
+5 is 101 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0101
+0b1101
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1101
+0b1101 in binary is 13 in decimal.
+Thus, 5 | 13 = 13
+
+
+
+5 is 101 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0101
+0b1101
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1000
+0b1000 in binary is 8 in decimal.
+Thus, 5 ^ 13 = 8
+
+
+
+We are doing a left shift by 5 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting left by 5 bits.
+That is, we are essentially cutting off 5 bits from the left of 0b1101
+0 bits => 1101
+1 bits => 101
+2 bits => 01
+3 bits => 1
+4 bits => 
+5 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+13 << 5 = 0
+
+
+
+We are doing a right shift by 5 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting right by 5 bits.
+That is, we are essentially cutting off 5 bits from the right of 0b1101
+0 bits => 1101
+1 bits => 110
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 110
+So, the final value in binary is 0b110, which is 6 in decimal.
+So...
+13 >> 5 = 6
+
+
+
+5 is 101 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0101
+0b1110
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0100
+0b0100 in binary is 4 in decimal.
+Thus, 5 & 14 = 4
+
+
+
+5 is 101 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0101
+0b1110
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 5 | 14 = 15
+
+
+
+5 is 101 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0101
+0b1110
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1011
+0b1011 in binary is 11 in decimal.
+Thus, 5 ^ 14 = 11
+
+
+
+We are doing a left shift by 5 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting left by 5 bits.
+That is, we are essentially cutting off 5 bits from the left of 0b1110
+0 bits => 1110
+1 bits => 110
+2 bits => 10
+3 bits => 0
+4 bits => 
+5 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+14 << 5 = 0
+
+
+
+We are doing a right shift by 5 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting right by 5 bits.
+That is, we are essentially cutting off 5 bits from the right of 0b1110
+0 bits => 1110
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 111
+So, the final value in binary is 0b111, which is 7 in decimal.
+So...
+14 >> 5 = 7
+
+
+
+5 is 101 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0101
+0b1111
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0101
+0b0101 in binary is 5 in decimal.
+Thus, 5 & 15 = 5
+
+
+
+5 is 101 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0101
+0b1111
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 5 | 15 = 15
+
+
+
+5 is 101 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0101
+0b1111
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1010
+0b1010 in binary is 10 in decimal.
+Thus, 5 ^ 15 = 10
+
+
+
+We are doing a left shift by 5 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting left by 5 bits.
+That is, we are essentially cutting off 5 bits from the left of 0b1111
+0 bits => 1111
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+15 << 5 = 0
+
+
+
+We are doing a right shift by 5 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting right by 5 bits.
+That is, we are essentially cutting off 5 bits from the right of 0b1111
+0 bits => 1111
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 111
+So, the final value in binary is 0b111, which is 7 in decimal.
+So...
+15 >> 5 = 7
+
+
+
+5 is 101 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00101
+0b10000
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 5 & 16 = 0
+
+
+
+5 is 101 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00101
+0b10000
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10101
+0b10101 in binary is 21 in decimal.
+Thus, 5 | 16 = 21
+
+
+
+5 is 101 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00101
+0b10000
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10101
+0b10101 in binary is 21 in decimal.
+Thus, 5 ^ 16 = 21
+
+
+
+We are doing a left shift by 5 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting left by 5 bits.
+That is, we are essentially cutting off 5 bits from the left of 0b10000
+0 bits => 10000
+1 bits => 0000
+2 bits => 000
+3 bits => 00
+4 bits => 0
+5 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+16 << 5 = 0
+
+
+
+We are doing a right shift by 5 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting right by 5 bits.
+That is, we are essentially cutting off 5 bits from the right of 0b10000
+0 bits => 10000
+1 bits => 1000
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+16 >> 5 = 0
+
+
+
+5 is 101 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00101
+0b10001
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00001
+0b00001 in binary is 1 in decimal.
+Thus, 5 & 17 = 1
+
+
+
+5 is 101 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00101
+0b10001
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10101
+0b10101 in binary is 21 in decimal.
+Thus, 5 | 17 = 21
+
+
+
+5 is 101 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00101
+0b10001
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10100
+0b10100 in binary is 20 in decimal.
+Thus, 5 ^ 17 = 20
+
+
+
+We are doing a left shift by 5 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting left by 5 bits.
+That is, we are essentially cutting off 5 bits from the left of 0b10001
+0 bits => 10001
+1 bits => 0001
+2 bits => 001
+3 bits => 01
+4 bits => 1
+5 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+17 << 5 = 0
+
+
+
+We are doing a right shift by 5 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting right by 5 bits.
+That is, we are essentially cutting off 5 bits from the right of 0b10001
+0 bits => 10001
+1 bits => 1000
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+17 >> 5 = 0
+
+
+
+5 is 101 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00101
+0b10010
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 5 & 18 = 0
+
+
+
+5 is 101 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00101
+0b10010
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10111
+0b10111 in binary is 23 in decimal.
+Thus, 5 | 18 = 23
+
+
+
+5 is 101 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00101
+0b10010
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10111
+0b10111 in binary is 23 in decimal.
+Thus, 5 ^ 18 = 23
+
+
+
+We are doing a left shift by 5 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting left by 5 bits.
+That is, we are essentially cutting off 5 bits from the left of 0b10010
+0 bits => 10010
+1 bits => 0010
+2 bits => 010
+3 bits => 10
+4 bits => 0
+5 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+18 << 5 = 0
+
+
+
+We are doing a right shift by 5 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting right by 5 bits.
+That is, we are essentially cutting off 5 bits from the right of 0b10010
+0 bits => 10010
+1 bits => 1001
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+18 >> 5 = 0
+
+
+
+5 is 101 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00101
+0b10011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00001
+0b00001 in binary is 1 in decimal.
+Thus, 5 & 19 = 1
+
+
+
+5 is 101 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00101
+0b10011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10111
+0b10111 in binary is 23 in decimal.
+Thus, 5 | 19 = 23
+
+
+
+5 is 101 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00101
+0b10011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10110
+0b10110 in binary is 22 in decimal.
+Thus, 5 ^ 19 = 22
+
+
+
+We are doing a left shift by 5 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting left by 5 bits.
+That is, we are essentially cutting off 5 bits from the left of 0b10011
+0 bits => 10011
+1 bits => 0011
+2 bits => 011
+3 bits => 11
+4 bits => 1
+5 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+19 << 5 = 0
+
+
+
+We are doing a right shift by 5 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting right by 5 bits.
+That is, we are essentially cutting off 5 bits from the right of 0b10011
+0 bits => 10011
+1 bits => 1001
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+19 >> 5 = 0
+
+
+
+6 is 110 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0110
+0b1011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0010
+0b0010 in binary is 2 in decimal.
+Thus, 6 & 11 = 2
+
+
+
+6 is 110 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0110
+0b1011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 6 | 11 = 15
+
+
+
+6 is 110 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0110
+0b1011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1101
+0b1101 in binary is 13 in decimal.
+Thus, 6 ^ 11 = 13
+
+
+
+We are doing a left shift by 6 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting left by 6 bits.
+That is, we are essentially cutting off 6 bits from the left of 0b1011
+0 bits => 1011
+1 bits => 011
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 
+6 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+11 << 6 = 0
+
+
+
+We are doing a right shift by 6 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting right by 6 bits.
+That is, we are essentially cutting off 6 bits from the right of 0b1011
+0 bits => 1011
+1 bits => 101
+2 bits => 10
+3 bits => 1
+4 bits => 
+5 bits => 101
+6 bits => 10
+So, the final value in binary is 0b10, which is 2 in decimal.
+So...
+11 >> 6 = 2
+
+
+
+6 is 110 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0110
+0b1100
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0100
+0b0100 in binary is 4 in decimal.
+Thus, 6 & 12 = 4
+
+
+
+6 is 110 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0110
+0b1100
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1110
+0b1110 in binary is 14 in decimal.
+Thus, 6 | 12 = 14
+
+
+
+6 is 110 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0110
+0b1100
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1010
+0b1010 in binary is 10 in decimal.
+Thus, 6 ^ 12 = 10
+
+
+
+We are doing a left shift by 6 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting left by 6 bits.
+That is, we are essentially cutting off 6 bits from the left of 0b1100
+0 bits => 1100
+1 bits => 100
+2 bits => 00
+3 bits => 0
+4 bits => 
+5 bits => 
+6 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+12 << 6 = 0
+
+
+
+We are doing a right shift by 6 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting right by 6 bits.
+That is, we are essentially cutting off 6 bits from the right of 0b1100
+0 bits => 1100
+1 bits => 110
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 110
+6 bits => 11
+So, the final value in binary is 0b11, which is 3 in decimal.
+So...
+12 >> 6 = 3
+
+
+
+6 is 110 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0110
+0b1101
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0100
+0b0100 in binary is 4 in decimal.
+Thus, 6 & 13 = 4
+
+
+
+6 is 110 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0110
+0b1101
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 6 | 13 = 15
+
+
+
+6 is 110 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0110
+0b1101
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1011
+0b1011 in binary is 11 in decimal.
+Thus, 6 ^ 13 = 11
+
+
+
+We are doing a left shift by 6 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting left by 6 bits.
+That is, we are essentially cutting off 6 bits from the left of 0b1101
+0 bits => 1101
+1 bits => 101
+2 bits => 01
+3 bits => 1
+4 bits => 
+5 bits => 
+6 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+13 << 6 = 0
+
+
+
+We are doing a right shift by 6 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting right by 6 bits.
+That is, we are essentially cutting off 6 bits from the right of 0b1101
+0 bits => 1101
+1 bits => 110
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 110
+6 bits => 11
+So, the final value in binary is 0b11, which is 3 in decimal.
+So...
+13 >> 6 = 3
+
+
+
+6 is 110 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0110
+0b1110
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0110
+0b0110 in binary is 6 in decimal.
+Thus, 6 & 14 = 6
+
+
+
+6 is 110 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0110
+0b1110
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1110
+0b1110 in binary is 14 in decimal.
+Thus, 6 | 14 = 14
+
+
+
+6 is 110 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0110
+0b1110
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1000
+0b1000 in binary is 8 in decimal.
+Thus, 6 ^ 14 = 8
+
+
+
+We are doing a left shift by 6 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting left by 6 bits.
+That is, we are essentially cutting off 6 bits from the left of 0b1110
+0 bits => 1110
+1 bits => 110
+2 bits => 10
+3 bits => 0
+4 bits => 
+5 bits => 
+6 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+14 << 6 = 0
+
+
+
+We are doing a right shift by 6 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting right by 6 bits.
+That is, we are essentially cutting off 6 bits from the right of 0b1110
+0 bits => 1110
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 111
+6 bits => 11
+So, the final value in binary is 0b11, which is 3 in decimal.
+So...
+14 >> 6 = 3
+
+
+
+6 is 110 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0110
+0b1111
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0110
+0b0110 in binary is 6 in decimal.
+Thus, 6 & 15 = 6
+
+
+
+6 is 110 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0110
+0b1111
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 6 | 15 = 15
+
+
+
+6 is 110 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0110
+0b1111
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1001
+0b1001 in binary is 9 in decimal.
+Thus, 6 ^ 15 = 9
+
+
+
+We are doing a left shift by 6 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting left by 6 bits.
+That is, we are essentially cutting off 6 bits from the left of 0b1111
+0 bits => 1111
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 
+6 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+15 << 6 = 0
+
+
+
+We are doing a right shift by 6 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting right by 6 bits.
+That is, we are essentially cutting off 6 bits from the right of 0b1111
+0 bits => 1111
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 111
+6 bits => 11
+So, the final value in binary is 0b11, which is 3 in decimal.
+So...
+15 >> 6 = 3
+
+
+
+6 is 110 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00110
+0b10000
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 6 & 16 = 0
+
+
+
+6 is 110 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00110
+0b10000
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10110
+0b10110 in binary is 22 in decimal.
+Thus, 6 | 16 = 22
+
+
+
+6 is 110 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00110
+0b10000
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10110
+0b10110 in binary is 22 in decimal.
+Thus, 6 ^ 16 = 22
+
+
+
+We are doing a left shift by 6 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting left by 6 bits.
+That is, we are essentially cutting off 6 bits from the left of 0b10000
+0 bits => 10000
+1 bits => 0000
+2 bits => 000
+3 bits => 00
+4 bits => 0
+5 bits => 
+6 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+16 << 6 = 0
+
+
+
+We are doing a right shift by 6 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting right by 6 bits.
+That is, we are essentially cutting off 6 bits from the right of 0b10000
+0 bits => 10000
+1 bits => 1000
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+6 bits => 1000
+So, the final value in binary is 0b1000, which is 8 in decimal.
+So...
+16 >> 6 = 8
+
+
+
+6 is 110 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00110
+0b10001
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 6 & 17 = 0
+
+
+
+6 is 110 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00110
+0b10001
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10111
+0b10111 in binary is 23 in decimal.
+Thus, 6 | 17 = 23
+
+
+
+6 is 110 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00110
+0b10001
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10111
+0b10111 in binary is 23 in decimal.
+Thus, 6 ^ 17 = 23
+
+
+
+We are doing a left shift by 6 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting left by 6 bits.
+That is, we are essentially cutting off 6 bits from the left of 0b10001
+0 bits => 10001
+1 bits => 0001
+2 bits => 001
+3 bits => 01
+4 bits => 1
+5 bits => 
+6 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+17 << 6 = 0
+
+
+
+We are doing a right shift by 6 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting right by 6 bits.
+That is, we are essentially cutting off 6 bits from the right of 0b10001
+0 bits => 10001
+1 bits => 1000
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+6 bits => 1000
+So, the final value in binary is 0b1000, which is 8 in decimal.
+So...
+17 >> 6 = 8
+
+
+
+6 is 110 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00110
+0b10010
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00010
+0b00010 in binary is 2 in decimal.
+Thus, 6 & 18 = 2
+
+
+
+6 is 110 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00110
+0b10010
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10110
+0b10110 in binary is 22 in decimal.
+Thus, 6 | 18 = 22
+
+
+
+6 is 110 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00110
+0b10010
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10100
+0b10100 in binary is 20 in decimal.
+Thus, 6 ^ 18 = 20
+
+
+
+We are doing a left shift by 6 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting left by 6 bits.
+That is, we are essentially cutting off 6 bits from the left of 0b10010
+0 bits => 10010
+1 bits => 0010
+2 bits => 010
+3 bits => 10
+4 bits => 0
+5 bits => 
+6 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+18 << 6 = 0
+
+
+
+We are doing a right shift by 6 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting right by 6 bits.
+That is, we are essentially cutting off 6 bits from the right of 0b10010
+0 bits => 10010
+1 bits => 1001
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+6 bits => 1001
+So, the final value in binary is 0b1001, which is 9 in decimal.
+So...
+18 >> 6 = 9
+
+
+
+6 is 110 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00110
+0b10011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00010
+0b00010 in binary is 2 in decimal.
+Thus, 6 & 19 = 2
+
+
+
+6 is 110 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00110
+0b10011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10111
+0b10111 in binary is 23 in decimal.
+Thus, 6 | 19 = 23
+
+
+
+6 is 110 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00110
+0b10011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10101
+0b10101 in binary is 21 in decimal.
+Thus, 6 ^ 19 = 21
+
+
+
+We are doing a left shift by 6 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting left by 6 bits.
+That is, we are essentially cutting off 6 bits from the left of 0b10011
+0 bits => 10011
+1 bits => 0011
+2 bits => 011
+3 bits => 11
+4 bits => 1
+5 bits => 
+6 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+19 << 6 = 0
+
+
+
+We are doing a right shift by 6 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting right by 6 bits.
+That is, we are essentially cutting off 6 bits from the right of 0b10011
+0 bits => 10011
+1 bits => 1001
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+6 bits => 1001
+So, the final value in binary is 0b1001, which is 9 in decimal.
+So...
+19 >> 6 = 9
+
+
+
+7 is 111 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0111
+0b1011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0011
+0b0011 in binary is 3 in decimal.
+Thus, 7 & 11 = 3
+
+
+
+7 is 111 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0111
+0b1011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 7 | 11 = 15
+
+
+
+7 is 111 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b0111
+0b1011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1100
+0b1100 in binary is 12 in decimal.
+Thus, 7 ^ 11 = 12
+
+
+
+We are doing a left shift by 7 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting left by 7 bits.
+That is, we are essentially cutting off 7 bits from the left of 0b1011
+0 bits => 1011
+1 bits => 011
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 
+6 bits => 
+7 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+11 << 7 = 0
+
+
+
+We are doing a right shift by 7 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting right by 7 bits.
+That is, we are essentially cutting off 7 bits from the right of 0b1011
+0 bits => 1011
+1 bits => 101
+2 bits => 10
+3 bits => 1
+4 bits => 
+5 bits => 101
+6 bits => 10
+7 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+11 >> 7 = 1
+
+
+
+7 is 111 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0111
+0b1100
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0100
+0b0100 in binary is 4 in decimal.
+Thus, 7 & 12 = 4
+
+
+
+7 is 111 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0111
+0b1100
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 7 | 12 = 15
+
+
+
+7 is 111 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b0111
+0b1100
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1011
+0b1011 in binary is 11 in decimal.
+Thus, 7 ^ 12 = 11
+
+
+
+We are doing a left shift by 7 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting left by 7 bits.
+That is, we are essentially cutting off 7 bits from the left of 0b1100
+0 bits => 1100
+1 bits => 100
+2 bits => 00
+3 bits => 0
+4 bits => 
+5 bits => 
+6 bits => 
+7 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+12 << 7 = 0
+
+
+
+We are doing a right shift by 7 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting right by 7 bits.
+That is, we are essentially cutting off 7 bits from the right of 0b1100
+0 bits => 1100
+1 bits => 110
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 110
+6 bits => 11
+7 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+12 >> 7 = 1
+
+
+
+7 is 111 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0111
+0b1101
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0101
+0b0101 in binary is 5 in decimal.
+Thus, 7 & 13 = 5
+
+
+
+7 is 111 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0111
+0b1101
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 7 | 13 = 15
+
+
+
+7 is 111 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b0111
+0b1101
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1010
+0b1010 in binary is 10 in decimal.
+Thus, 7 ^ 13 = 10
+
+
+
+We are doing a left shift by 7 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting left by 7 bits.
+That is, we are essentially cutting off 7 bits from the left of 0b1101
+0 bits => 1101
+1 bits => 101
+2 bits => 01
+3 bits => 1
+4 bits => 
+5 bits => 
+6 bits => 
+7 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+13 << 7 = 0
+
+
+
+We are doing a right shift by 7 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting right by 7 bits.
+That is, we are essentially cutting off 7 bits from the right of 0b1101
+0 bits => 1101
+1 bits => 110
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 110
+6 bits => 11
+7 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+13 >> 7 = 1
+
+
+
+7 is 111 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0111
+0b1110
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0110
+0b0110 in binary is 6 in decimal.
+Thus, 7 & 14 = 6
+
+
+
+7 is 111 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0111
+0b1110
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 7 | 14 = 15
+
+
+
+7 is 111 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b0111
+0b1110
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1001
+0b1001 in binary is 9 in decimal.
+Thus, 7 ^ 14 = 9
+
+
+
+We are doing a left shift by 7 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting left by 7 bits.
+That is, we are essentially cutting off 7 bits from the left of 0b1110
+0 bits => 1110
+1 bits => 110
+2 bits => 10
+3 bits => 0
+4 bits => 
+5 bits => 
+6 bits => 
+7 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+14 << 7 = 0
+
+
+
+We are doing a right shift by 7 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting right by 7 bits.
+That is, we are essentially cutting off 7 bits from the right of 0b1110
+0 bits => 1110
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 111
+6 bits => 11
+7 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+14 >> 7 = 1
+
+
+
+7 is 111 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0111
+0b1111
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b0111
+0b0111 in binary is 7 in decimal.
+Thus, 7 & 15 = 7
+
+
+
+7 is 111 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0111
+0b1111
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 7 | 15 = 15
+
+
+
+7 is 111 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b0111
+0b1111
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b1000
+0b1000 in binary is 8 in decimal.
+Thus, 7 ^ 15 = 8
+
+
+
+We are doing a left shift by 7 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting left by 7 bits.
+That is, we are essentially cutting off 7 bits from the left of 0b1111
+0 bits => 1111
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 
+6 bits => 
+7 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+15 << 7 = 0
+
+
+
+We are doing a right shift by 7 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting right by 7 bits.
+That is, we are essentially cutting off 7 bits from the right of 0b1111
+0 bits => 1111
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 111
+6 bits => 11
+7 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+15 >> 7 = 1
+
+
+
+7 is 111 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00111
+0b10000
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 7 & 16 = 0
+
+
+
+7 is 111 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00111
+0b10000
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10111
+0b10111 in binary is 23 in decimal.
+Thus, 7 | 16 = 23
+
+
+
+7 is 111 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b00111
+0b10000
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10111
+0b10111 in binary is 23 in decimal.
+Thus, 7 ^ 16 = 23
+
+
+
+We are doing a left shift by 7 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting left by 7 bits.
+That is, we are essentially cutting off 7 bits from the left of 0b10000
+0 bits => 10000
+1 bits => 0000
+2 bits => 000
+3 bits => 00
+4 bits => 0
+5 bits => 
+6 bits => 
+7 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+16 << 7 = 0
+
+
+
+We are doing a right shift by 7 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting right by 7 bits.
+That is, we are essentially cutting off 7 bits from the right of 0b10000
+0 bits => 10000
+1 bits => 1000
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+6 bits => 1000
+7 bits => 100
+So, the final value in binary is 0b100, which is 4 in decimal.
+So...
+16 >> 7 = 4
+
+
+
+7 is 111 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00111
+0b10001
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00001
+0b00001 in binary is 1 in decimal.
+Thus, 7 & 17 = 1
+
+
+
+7 is 111 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00111
+0b10001
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10111
+0b10111 in binary is 23 in decimal.
+Thus, 7 | 17 = 23
+
+
+
+7 is 111 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b00111
+0b10001
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10110
+0b10110 in binary is 22 in decimal.
+Thus, 7 ^ 17 = 22
+
+
+
+We are doing a left shift by 7 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting left by 7 bits.
+That is, we are essentially cutting off 7 bits from the left of 0b10001
+0 bits => 10001
+1 bits => 0001
+2 bits => 001
+3 bits => 01
+4 bits => 1
+5 bits => 
+6 bits => 
+7 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+17 << 7 = 0
+
+
+
+We are doing a right shift by 7 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting right by 7 bits.
+That is, we are essentially cutting off 7 bits from the right of 0b10001
+0 bits => 10001
+1 bits => 1000
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+6 bits => 1000
+7 bits => 100
+So, the final value in binary is 0b100, which is 4 in decimal.
+So...
+17 >> 7 = 4
+
+
+
+7 is 111 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00111
+0b10010
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00010
+0b00010 in binary is 2 in decimal.
+Thus, 7 & 18 = 2
+
+
+
+7 is 111 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00111
+0b10010
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10111
+0b10111 in binary is 23 in decimal.
+Thus, 7 | 18 = 23
+
+
+
+7 is 111 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b00111
+0b10010
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10101
+0b10101 in binary is 21 in decimal.
+Thus, 7 ^ 18 = 21
+
+
+
+We are doing a left shift by 7 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting left by 7 bits.
+That is, we are essentially cutting off 7 bits from the left of 0b10010
+0 bits => 10010
+1 bits => 0010
+2 bits => 010
+3 bits => 10
+4 bits => 0
+5 bits => 
+6 bits => 
+7 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+18 << 7 = 0
+
+
+
+We are doing a right shift by 7 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting right by 7 bits.
+That is, we are essentially cutting off 7 bits from the right of 0b10010
+0 bits => 10010
+1 bits => 1001
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+6 bits => 1001
+7 bits => 100
+So, the final value in binary is 0b100, which is 4 in decimal.
+So...
+18 >> 7 = 4
+
+
+
+7 is 111 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00111
+0b10011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00011
+0b00011 in binary is 3 in decimal.
+Thus, 7 & 19 = 3
+
+
+
+7 is 111 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00111
+0b10011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b10111
+0b10111 in binary is 23 in decimal.
+Thus, 7 | 19 = 23
+
+
+
+7 is 111 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b00111
+0b10011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b10100
+0b10100 in binary is 20 in decimal.
+Thus, 7 ^ 19 = 20
+
+
+
+We are doing a left shift by 7 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting left by 7 bits.
+That is, we are essentially cutting off 7 bits from the left of 0b10011
+0 bits => 10011
+1 bits => 0011
+2 bits => 011
+3 bits => 11
+4 bits => 1
+5 bits => 
+6 bits => 
+7 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+19 << 7 = 0
+
+
+
+We are doing a right shift by 7 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting right by 7 bits.
+That is, we are essentially cutting off 7 bits from the right of 0b10011
+0 bits => 10011
+1 bits => 1001
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+6 bits => 1001
+7 bits => 100
+So, the final value in binary is 0b100, which is 4 in decimal.
+So...
+19 >> 7 = 4
+
+
+
+8 is 1000 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b1000
+0b1011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b1000
+0b1000 in binary is 8 in decimal.
+Thus, 8 & 11 = 8
+
+
+
+8 is 1000 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b1000
+0b1011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1011
+0b1011 in binary is 11 in decimal.
+Thus, 8 | 11 = 11
+
+
+
+8 is 1000 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b1000
+0b1011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b0011
+0b0011 in binary is 3 in decimal.
+Thus, 8 ^ 11 = 3
+
+
+
+We are doing a left shift by 8 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting left by 8 bits.
+That is, we are essentially cutting off 8 bits from the left of 0b1011
+0 bits => 1011
+1 bits => 011
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+11 << 8 = 0
+
+
+
+We are doing a right shift by 8 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting right by 8 bits.
+That is, we are essentially cutting off 8 bits from the right of 0b1011
+0 bits => 1011
+1 bits => 101
+2 bits => 10
+3 bits => 1
+4 bits => 
+5 bits => 101
+6 bits => 10
+7 bits => 1
+8 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+11 >> 8 = 0
+
+
+
+8 is 1000 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b1000
+0b1100
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b1000
+0b1000 in binary is 8 in decimal.
+Thus, 8 & 12 = 8
+
+
+
+8 is 1000 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b1000
+0b1100
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1100
+0b1100 in binary is 12 in decimal.
+Thus, 8 | 12 = 12
+
+
+
+8 is 1000 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b1000
+0b1100
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b0100
+0b0100 in binary is 4 in decimal.
+Thus, 8 ^ 12 = 4
+
+
+
+We are doing a left shift by 8 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting left by 8 bits.
+That is, we are essentially cutting off 8 bits from the left of 0b1100
+0 bits => 1100
+1 bits => 100
+2 bits => 00
+3 bits => 0
+4 bits => 
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+12 << 8 = 0
+
+
+
+We are doing a right shift by 8 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting right by 8 bits.
+That is, we are essentially cutting off 8 bits from the right of 0b1100
+0 bits => 1100
+1 bits => 110
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 110
+6 bits => 11
+7 bits => 1
+8 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+12 >> 8 = 0
+
+
+
+8 is 1000 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b1000
+0b1101
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b1000
+0b1000 in binary is 8 in decimal.
+Thus, 8 & 13 = 8
+
+
+
+8 is 1000 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b1000
+0b1101
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1101
+0b1101 in binary is 13 in decimal.
+Thus, 8 | 13 = 13
+
+
+
+8 is 1000 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b1000
+0b1101
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b0101
+0b0101 in binary is 5 in decimal.
+Thus, 8 ^ 13 = 5
+
+
+
+We are doing a left shift by 8 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting left by 8 bits.
+That is, we are essentially cutting off 8 bits from the left of 0b1101
+0 bits => 1101
+1 bits => 101
+2 bits => 01
+3 bits => 1
+4 bits => 
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+13 << 8 = 0
+
+
+
+We are doing a right shift by 8 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting right by 8 bits.
+That is, we are essentially cutting off 8 bits from the right of 0b1101
+0 bits => 1101
+1 bits => 110
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 110
+6 bits => 11
+7 bits => 1
+8 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+13 >> 8 = 0
+
+
+
+8 is 1000 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b1000
+0b1110
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b1000
+0b1000 in binary is 8 in decimal.
+Thus, 8 & 14 = 8
+
+
+
+8 is 1000 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b1000
+0b1110
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1110
+0b1110 in binary is 14 in decimal.
+Thus, 8 | 14 = 14
+
+
+
+8 is 1000 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b1000
+0b1110
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b0110
+0b0110 in binary is 6 in decimal.
+Thus, 8 ^ 14 = 6
+
+
+
+We are doing a left shift by 8 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting left by 8 bits.
+That is, we are essentially cutting off 8 bits from the left of 0b1110
+0 bits => 1110
+1 bits => 110
+2 bits => 10
+3 bits => 0
+4 bits => 
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+14 << 8 = 0
+
+
+
+We are doing a right shift by 8 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting right by 8 bits.
+That is, we are essentially cutting off 8 bits from the right of 0b1110
+0 bits => 1110
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 111
+6 bits => 11
+7 bits => 1
+8 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+14 >> 8 = 0
+
+
+
+8 is 1000 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b1000
+0b1111
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b1000
+0b1000 in binary is 8 in decimal.
+Thus, 8 & 15 = 8
+
+
+
+8 is 1000 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b1000
+0b1111
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 8 | 15 = 15
+
+
+
+8 is 1000 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b1000
+0b1111
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b0111
+0b0111 in binary is 7 in decimal.
+Thus, 8 ^ 15 = 7
+
+
+
+We are doing a left shift by 8 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting left by 8 bits.
+That is, we are essentially cutting off 8 bits from the left of 0b1111
+0 bits => 1111
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+15 << 8 = 0
+
+
+
+We are doing a right shift by 8 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting right by 8 bits.
+That is, we are essentially cutting off 8 bits from the right of 0b1111
+0 bits => 1111
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 111
+6 bits => 11
+7 bits => 1
+8 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+15 >> 8 = 0
+
+
+
+8 is 1000 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b01000
+0b10000
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 8 & 16 = 0
+
+
+
+8 is 1000 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b01000
+0b10000
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b11000
+0b11000 in binary is 24 in decimal.
+Thus, 8 | 16 = 24
+
+
+
+8 is 1000 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b01000
+0b10000
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b11000
+0b11000 in binary is 24 in decimal.
+Thus, 8 ^ 16 = 24
+
+
+
+We are doing a left shift by 8 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting left by 8 bits.
+That is, we are essentially cutting off 8 bits from the left of 0b10000
+0 bits => 10000
+1 bits => 0000
+2 bits => 000
+3 bits => 00
+4 bits => 0
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+16 << 8 = 0
+
+
+
+We are doing a right shift by 8 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting right by 8 bits.
+That is, we are essentially cutting off 8 bits from the right of 0b10000
+0 bits => 10000
+1 bits => 1000
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+6 bits => 1000
+7 bits => 100
+8 bits => 10
+So, the final value in binary is 0b10, which is 2 in decimal.
+So...
+16 >> 8 = 2
+
+
+
+8 is 1000 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b01000
+0b10001
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 8 & 17 = 0
+
+
+
+8 is 1000 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b01000
+0b10001
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b11001
+0b11001 in binary is 25 in decimal.
+Thus, 8 | 17 = 25
+
+
+
+8 is 1000 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b01000
+0b10001
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b11001
+0b11001 in binary is 25 in decimal.
+Thus, 8 ^ 17 = 25
+
+
+
+We are doing a left shift by 8 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting left by 8 bits.
+That is, we are essentially cutting off 8 bits from the left of 0b10001
+0 bits => 10001
+1 bits => 0001
+2 bits => 001
+3 bits => 01
+4 bits => 1
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+17 << 8 = 0
+
+
+
+We are doing a right shift by 8 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting right by 8 bits.
+That is, we are essentially cutting off 8 bits from the right of 0b10001
+0 bits => 10001
+1 bits => 1000
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+6 bits => 1000
+7 bits => 100
+8 bits => 10
+So, the final value in binary is 0b10, which is 2 in decimal.
+So...
+17 >> 8 = 2
+
+
+
+8 is 1000 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b01000
+0b10010
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 8 & 18 = 0
+
+
+
+8 is 1000 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b01000
+0b10010
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b11010
+0b11010 in binary is 26 in decimal.
+Thus, 8 | 18 = 26
+
+
+
+8 is 1000 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b01000
+0b10010
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b11010
+0b11010 in binary is 26 in decimal.
+Thus, 8 ^ 18 = 26
+
+
+
+We are doing a left shift by 8 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting left by 8 bits.
+That is, we are essentially cutting off 8 bits from the left of 0b10010
+0 bits => 10010
+1 bits => 0010
+2 bits => 010
+3 bits => 10
+4 bits => 0
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+18 << 8 = 0
+
+
+
+We are doing a right shift by 8 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting right by 8 bits.
+That is, we are essentially cutting off 8 bits from the right of 0b10010
+0 bits => 10010
+1 bits => 1001
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+6 bits => 1001
+7 bits => 100
+8 bits => 10
+So, the final value in binary is 0b10, which is 2 in decimal.
+So...
+18 >> 8 = 2
+
+
+
+8 is 1000 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b01000
+0b10011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 8 & 19 = 0
+
+
+
+8 is 1000 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b01000
+0b10011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b11011
+0b11011 in binary is 27 in decimal.
+Thus, 8 | 19 = 27
+
+
+
+8 is 1000 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b01000
+0b10011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b11011
+0b11011 in binary is 27 in decimal.
+Thus, 8 ^ 19 = 27
+
+
+
+We are doing a left shift by 8 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting left by 8 bits.
+That is, we are essentially cutting off 8 bits from the left of 0b10011
+0 bits => 10011
+1 bits => 0011
+2 bits => 011
+3 bits => 11
+4 bits => 1
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+19 << 8 = 0
+
+
+
+We are doing a right shift by 8 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting right by 8 bits.
+That is, we are essentially cutting off 8 bits from the right of 0b10011
+0 bits => 10011
+1 bits => 1001
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+6 bits => 1001
+7 bits => 100
+8 bits => 10
+So, the final value in binary is 0b10, which is 2 in decimal.
+So...
+19 >> 8 = 2
+
+
+
+9 is 1001 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b1001
+0b1011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b1001
+0b1001 in binary is 9 in decimal.
+Thus, 9 & 11 = 9
+
+
+
+9 is 1001 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b1001
+0b1011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1011
+0b1011 in binary is 11 in decimal.
+Thus, 9 | 11 = 11
+
+
+
+9 is 1001 in binary, and 11 is 1011 in binary.
+Let's align the values vertically.
+0b1001
+0b1011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b0010
+0b0010 in binary is 2 in decimal.
+Thus, 9 ^ 11 = 2
+
+
+
+We are doing a left shift by 9 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting left by 9 bits.
+That is, we are essentially cutting off 9 bits from the left of 0b1011
+0 bits => 1011
+1 bits => 011
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+9 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+11 << 9 = 0
+
+
+
+We are doing a right shift by 9 bits. First, let's write our number (11) in binary.
+0b1011
+We are shifting right by 9 bits.
+That is, we are essentially cutting off 9 bits from the right of 0b1011
+0 bits => 1011
+1 bits => 101
+2 bits => 10
+3 bits => 1
+4 bits => 
+5 bits => 101
+6 bits => 10
+7 bits => 1
+8 bits => 
+9 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+11 >> 9 = 0
+
+
+
+9 is 1001 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b1001
+0b1100
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b1000
+0b1000 in binary is 8 in decimal.
+Thus, 9 & 12 = 8
+
+
+
+9 is 1001 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b1001
+0b1100
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1101
+0b1101 in binary is 13 in decimal.
+Thus, 9 | 12 = 13
+
+
+
+9 is 1001 in binary, and 12 is 1100 in binary.
+Let's align the values vertically.
+0b1001
+0b1100
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b0101
+0b0101 in binary is 5 in decimal.
+Thus, 9 ^ 12 = 5
+
+
+
+We are doing a left shift by 9 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting left by 9 bits.
+That is, we are essentially cutting off 9 bits from the left of 0b1100
+0 bits => 1100
+1 bits => 100
+2 bits => 00
+3 bits => 0
+4 bits => 
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+9 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+12 << 9 = 0
+
+
+
+We are doing a right shift by 9 bits. First, let's write our number (12) in binary.
+0b1100
+We are shifting right by 9 bits.
+That is, we are essentially cutting off 9 bits from the right of 0b1100
+0 bits => 1100
+1 bits => 110
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 110
+6 bits => 11
+7 bits => 1
+8 bits => 
+9 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+12 >> 9 = 0
+
+
+
+9 is 1001 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b1001
+0b1101
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b1001
+0b1001 in binary is 9 in decimal.
+Thus, 9 & 13 = 9
+
+
+
+9 is 1001 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b1001
+0b1101
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1101
+0b1101 in binary is 13 in decimal.
+Thus, 9 | 13 = 13
+
+
+
+9 is 1001 in binary, and 13 is 1101 in binary.
+Let's align the values vertically.
+0b1001
+0b1101
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b0100
+0b0100 in binary is 4 in decimal.
+Thus, 9 ^ 13 = 4
+
+
+
+We are doing a left shift by 9 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting left by 9 bits.
+That is, we are essentially cutting off 9 bits from the left of 0b1101
+0 bits => 1101
+1 bits => 101
+2 bits => 01
+3 bits => 1
+4 bits => 
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+9 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+13 << 9 = 0
+
+
+
+We are doing a right shift by 9 bits. First, let's write our number (13) in binary.
+0b1101
+We are shifting right by 9 bits.
+That is, we are essentially cutting off 9 bits from the right of 0b1101
+0 bits => 1101
+1 bits => 110
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 110
+6 bits => 11
+7 bits => 1
+8 bits => 
+9 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+13 >> 9 = 0
+
+
+
+9 is 1001 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b1001
+0b1110
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b1000
+0b1000 in binary is 8 in decimal.
+Thus, 9 & 14 = 8
+
+
+
+9 is 1001 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b1001
+0b1110
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 9 | 14 = 15
+
+
+
+9 is 1001 in binary, and 14 is 1110 in binary.
+Let's align the values vertically.
+0b1001
+0b1110
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b0111
+0b0111 in binary is 7 in decimal.
+Thus, 9 ^ 14 = 7
+
+
+
+We are doing a left shift by 9 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting left by 9 bits.
+That is, we are essentially cutting off 9 bits from the left of 0b1110
+0 bits => 1110
+1 bits => 110
+2 bits => 10
+3 bits => 0
+4 bits => 
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+9 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+14 << 9 = 0
+
+
+
+We are doing a right shift by 9 bits. First, let's write our number (14) in binary.
+0b1110
+We are shifting right by 9 bits.
+That is, we are essentially cutting off 9 bits from the right of 0b1110
+0 bits => 1110
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 111
+6 bits => 11
+7 bits => 1
+8 bits => 
+9 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+14 >> 9 = 0
+
+
+
+9 is 1001 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b1001
+0b1111
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b1001
+0b1001 in binary is 9 in decimal.
+Thus, 9 & 15 = 9
+
+
+
+9 is 1001 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b1001
+0b1111
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b1111
+0b1111 in binary is 15 in decimal.
+Thus, 9 | 15 = 15
+
+
+
+9 is 1001 in binary, and 15 is 1111 in binary.
+Let's align the values vertically.
+0b1001
+0b1111
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b0110
+0b0110 in binary is 6 in decimal.
+Thus, 9 ^ 15 = 6
+
+
+
+We are doing a left shift by 9 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting left by 9 bits.
+That is, we are essentially cutting off 9 bits from the left of 0b1111
+0 bits => 1111
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+9 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+15 << 9 = 0
+
+
+
+We are doing a right shift by 9 bits. First, let's write our number (15) in binary.
+0b1111
+We are shifting right by 9 bits.
+That is, we are essentially cutting off 9 bits from the right of 0b1111
+0 bits => 1111
+1 bits => 111
+2 bits => 11
+3 bits => 1
+4 bits => 
+5 bits => 111
+6 bits => 11
+7 bits => 1
+8 bits => 
+9 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+15 >> 9 = 0
+
+
+
+9 is 1001 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b01001
+0b10000
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 9 & 16 = 0
+
+
+
+9 is 1001 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b01001
+0b10000
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b11001
+0b11001 in binary is 25 in decimal.
+Thus, 9 | 16 = 25
+
+
+
+9 is 1001 in binary, and 16 is 10000 in binary.
+Let's align the values vertically.
+0b01001
+0b10000
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b11001
+0b11001 in binary is 25 in decimal.
+Thus, 9 ^ 16 = 25
+
+
+
+We are doing a left shift by 9 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting left by 9 bits.
+That is, we are essentially cutting off 9 bits from the left of 0b10000
+0 bits => 10000
+1 bits => 0000
+2 bits => 000
+3 bits => 00
+4 bits => 0
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+9 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+16 << 9 = 0
+
+
+
+We are doing a right shift by 9 bits. First, let's write our number (16) in binary.
+0b10000
+We are shifting right by 9 bits.
+That is, we are essentially cutting off 9 bits from the right of 0b10000
+0 bits => 10000
+1 bits => 1000
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+6 bits => 1000
+7 bits => 100
+8 bits => 10
+9 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+16 >> 9 = 1
+
+
+
+9 is 1001 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b01001
+0b10001
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00001
+0b00001 in binary is 1 in decimal.
+Thus, 9 & 17 = 1
+
+
+
+9 is 1001 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b01001
+0b10001
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b11001
+0b11001 in binary is 25 in decimal.
+Thus, 9 | 17 = 25
+
+
+
+9 is 1001 in binary, and 17 is 10001 in binary.
+Let's align the values vertically.
+0b01001
+0b10001
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b11000
+0b11000 in binary is 24 in decimal.
+Thus, 9 ^ 17 = 24
+
+
+
+We are doing a left shift by 9 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting left by 9 bits.
+That is, we are essentially cutting off 9 bits from the left of 0b10001
+0 bits => 10001
+1 bits => 0001
+2 bits => 001
+3 bits => 01
+4 bits => 1
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+9 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+17 << 9 = 0
+
+
+
+We are doing a right shift by 9 bits. First, let's write our number (17) in binary.
+0b10001
+We are shifting right by 9 bits.
+That is, we are essentially cutting off 9 bits from the right of 0b10001
+0 bits => 10001
+1 bits => 1000
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+6 bits => 1000
+7 bits => 100
+8 bits => 10
+9 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+17 >> 9 = 1
+
+
+
+9 is 1001 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b01001
+0b10010
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00000
+0b00000 in binary is 0 in decimal.
+Thus, 9 & 18 = 0
+
+
+
+9 is 1001 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b01001
+0b10010
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b11011
+0b11011 in binary is 27 in decimal.
+Thus, 9 | 18 = 27
+
+
+
+9 is 1001 in binary, and 18 is 10010 in binary.
+Let's align the values vertically.
+0b01001
+0b10010
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b11011
+0b11011 in binary is 27 in decimal.
+Thus, 9 ^ 18 = 27
+
+
+
+We are doing a left shift by 9 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting left by 9 bits.
+That is, we are essentially cutting off 9 bits from the left of 0b10010
+0 bits => 10010
+1 bits => 0010
+2 bits => 010
+3 bits => 10
+4 bits => 0
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+9 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+18 << 9 = 0
+
+
+
+We are doing a right shift by 9 bits. First, let's write our number (18) in binary.
+0b10010
+We are shifting right by 9 bits.
+That is, we are essentially cutting off 9 bits from the right of 0b10010
+0 bits => 10010
+1 bits => 1001
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+6 bits => 1001
+7 bits => 100
+8 bits => 10
+9 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+18 >> 9 = 1
+
+
+
+9 is 1001 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b01001
+0b10011
+We want bitwise AND. Any column that is both 1s, we keep 1. Otherwise, we turn to 0.
+0b00001
+0b00001 in binary is 1 in decimal.
+Thus, 9 & 19 = 1
+
+
+
+9 is 1001 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b01001
+0b10011
+We want bitwise OR. Any column that has at least one 1, we keep 1. If both 0, we turn to 0.
+0b11011
+0b11011 in binary is 27 in decimal.
+Thus, 9 | 19 = 27
+
+
+
+9 is 1001 in binary, and 19 is 10011 in binary.
+Let's align the values vertically.
+0b01001
+0b10011
+We want bitwise XOR. Any column that has exactly one 1 and one 0, we keep 1. Otherwise, we turn to 0.
+0b11010
+0b11010 in binary is 26 in decimal.
+Thus, 9 ^ 19 = 26
+
+
+
+We are doing a left shift by 9 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting left by 9 bits.
+That is, we are essentially cutting off 9 bits from the left of 0b10011
+0 bits => 10011
+1 bits => 0011
+2 bits => 011
+3 bits => 11
+4 bits => 1
+5 bits => 
+6 bits => 
+7 bits => 
+8 bits => 
+9 bits => 
+So, the final value in binary is 0b, which is 0 in decimal.
+So...
+19 << 9 = 0
+
+
+
+We are doing a right shift by 9 bits. First, let's write our number (19) in binary.
+0b10011
+We are shifting right by 9 bits.
+That is, we are essentially cutting off 9 bits from the right of 0b10011
+0 bits => 10011
+1 bits => 1001
+2 bits => 100
+3 bits => 10
+4 bits => 1
+5 bits => 
+6 bits => 1001
+7 bits => 100
+8 bits => 10
+9 bits => 1
+So, the final value in binary is 0b1, which is 1 in decimal.
+So...
+19 >> 9 = 1
+
+
+

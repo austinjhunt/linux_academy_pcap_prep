@@ -1,0 +1,165 @@
+Metadata-Version: 2.1
+Name: helpers
+Version: 1.0.0
+Summary: Our custom collection of helper functions and vars 
+Home-page: UNKNOWN
+Author: Austin Hunt
+Author-email: huntaj@cofc.edu
+License: UNKNOWN
+Description: 
+        # Hiding module entities.
+        # How do you hide things/prevent things in a module from being exposed?
+        # __all__
+        # Look at helpers.
+        
+        
+        # the module search path.
+        # Where do import statments import from? How can we modify that?
+        # import statements pull from
+        # 1) Current working directory
+        # 2) If you set the PYTHONPATH environment variable before running python, you can add directories to include in the import search
+        # 3) There are directories that your python installation knows about that you can import standard library entties from or any
+        # 3rd party entities you install can be imported from
+        # you can find out what these directories are by:
+        """
+        >>> import sys
+        >>> sys.path
+        ['', '/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python37.zip',
+         '/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7',
+         '/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload',
+         '/Users/huntaj/dev/pythoncertification/venv/lib/python3.7/site-packages']
+        """
+        # '' is current directory.
+        # site-packages contains 3rd party installations
+        
+        """
+        (venv) Austins-iMac:using-modules huntaj$ cd ..
+        (venv) Austins-iMac:pythoncertification huntaj$ touch example_mod.py
+        (venv) Austins-iMac:pythoncertification huntaj$ PYTHONPATH='/Users/huntaj/dev/pythoncertification/' python3.7
+        Python 3.7.7 (default, Mar 26 2020, 18:08:50)
+        [Clang 11.0.3 (clang-1103.0.32.29)] on darwin
+        Type "help", "copyright", "credits" or "license" for more information.
+        >>> import example_mod
+        >>> import sys
+        >>> sys.path
+        ['', '/Users/huntaj/dev/pythoncertification', '/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python37.zip',
+        '/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7',
+        '/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload',
+        '/Users/huntaj/dev/pythoncertification/venv/lib/python3.7/site-packages']
+        """
+        
+        """
+        Custom vs. Standard Lib imports (same name. Which takes priority? Stdlib.)
+        
+        (venv) Austins-iMac:pythoncertification huntaj$ touch sys.py
+        (venv) Austins-iMac:pythoncertification huntaj$ PYTHONPATH='/Users/huntaj/dev/pythoncertification/' python3.7
+        Python 3.7.7 (default, Mar 26 2020, 18:08:50)
+        [Clang 11.0.3 (clang-1103.0.32.29)] on darwin
+        Type "help", "copyright", "credits" or "license" for more information.
+        >>> import sys
+        >>> sys.path
+        ['', '/Users/huntaj/dev/pythoncertification', '/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python37.zip', '/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7', '/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload', '/Users/huntaj/dev/pythoncertification/venv/lib/python3.7/site-packages']
+        >>> print("Even though interpreter searches sys.path in order, it FIRST searches standard library, so sys module used here is still from standard lib even though its in pythoncertification folder. This prevents stdlib entities from being overwritten")
+        Even though interpreter searches sys.path in order, it FIRST searches standard library, so sys module used here is still from standard lib even though its in pythoncertification folder. This prevents stdlib entities from being overwritten
+        >>>
+        """
+        
+        
+        # Distributing and Installing Packages
+        
+        ### pip = command line utility for installing packages from pypi.org (python package index)
+        ``` pip --help
+        Usage:
+          pip <command> [options]
+        
+        Commands:
+          install                     Install packages.
+          download                    Download packages.
+          uninstall                   Uninstall packages.
+          freeze                      Output installed packages in requirements format.
+          list                        List installed packages.
+          show                        Show information about installed packages.
+          check                       Verify installed packages have compatible dependencies.
+          config                      Manage local and global configuration.
+          search                      Search PyPI for packages.
+          cache                       Inspect and manage pip's wheel cache.
+          wheel                       Build wheels from your requirements.
+          hash                        Compute hashes of package archives.
+          completion                  A helper command used for command completion.
+          debug                       Show information useful for debugging.
+          help                        Show help for commands.
+        
+        General Options:
+          -h, --help                  Show help.
+          --isolated                  Run pip in an isolated mode, ignoring environment variables and user configuration.
+          -v, --verbose               Give more output. Option is additive, and can be used up to 3 times.
+          -V, --version               Show version and exit.
+          -q, --quiet                 Give less output. Option is additive, and can be used up to 3 times (corresponding to WARNING, ERROR, and CRITICAL logging levels).
+          --log <path>                Path to a verbose appending log.
+          --proxy <proxy>             Specify a proxy in the form [user:passwd@]proxy.server:port.
+          --retries <retries>         Maximum number of retries each connection should attempt (default 5 times).
+          --timeout <sec>             Set the socket timeout (default 15 seconds).
+          --exists-action <action>    Default action when a path already exists: (s)witch, (i)gnore, (w)ipe, (b)ackup, (a)bort.
+          --trusted-host <hostname>   Mark this host or host:port pair as trusted, even though it does not have valid or any HTTPS.
+          --cert <path>               Path to alternate CA bundle.
+          --client-cert <path>        Path to SSL client certificate, a single file containing the private key and the certificate in PEM format.
+          --cache-dir <dir>           Store the cache data in <dir>.
+          --no-cache-dir              Disable the cache.
+          --disable-pip-version-check
+                                      Don't periodically check PyPI to determine whether a new version of pip is available for download. Implied with --no-index.
+          --no-color                  Suppress colored output
+          --no-python-version-warning
+                                      Silence deprecation warnings for upcoming unsupported Pythons.
+        
+        ```
+        # Creating an installable package.
+        # Let helpers (inside using-modules) be the package we want to set up and distribute.
+        ```
+        cd using-modules
+        mkdir -p helpers/src/helpers
+        # Outer helpers will be where all the packaging code is stored for bundling up code.
+        # src/helpers will be the source code of the package.
+        mv helpers/*.py helpers/src/helpers/
+        (venv) Austins-iMac:using-modules huntaj$ tree helpers/
+        helpers/
+        ├── __pycache__
+        │   ├── __init__.cpython-37.pyc
+        │   ├── strings.cpython-37.pyc
+        │   └── variables.cpython-37.pyc
+        └── src
+            └── helpers
+                ├── __init__.py
+                ├── strings.py
+                └── variables.py
+        
+        3 directories, 6 files
+        
+        # PyPA -> Python Packaging Authority
+        github.com/pypa/sampleproject
+        
+        cd helpers
+        # Create a setup.py file. Can just pull it from sample project.
+        curl -O https://raw.githubusercontent.com/pypa/sampleproject/master/setup.py
+        
+        ```
+        What is a distributioN?
+        Single file that can be pip installed.
+        2 formats: wheel, egg
+        egg is historic, wheel is modern
+        pip reads wheel, unpacks source code into the site-packages directory (3rd party packages)
+        How to build the wheel?
+        First install it.
+        pip install --upgrade wheel
+        
+Keywords: sample setuptools development
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.6, <4
+Description-Content-Type: text/markdown
